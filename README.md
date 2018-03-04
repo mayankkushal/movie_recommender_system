@@ -1,4 +1,4 @@
-# Movie Recomender System
+# Movie Recommender System
 
 ## Recommender systems can be classified into 3 types:
 
